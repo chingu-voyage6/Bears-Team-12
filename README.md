@@ -1,2 +1,5 @@
 # Bears-Team-12
-Add-project-description-here | Chingu Voyage-6 | https://chingu.io/
+Welcome Bears!
+Let's put some code here :)
+
+The One App | Chingu Voyage-6 | https://chingu.io/
